@@ -17,6 +17,6 @@
       "mandatory": false
     }
   },
-   "nostrPubkey": "your_nostr_pubkey_here",
+   "nostrPubkey": "7a333ebd360bb3e0782569b40fb4d107c8a343a9d33ac9cf824d64ede09ba33e",
    "allowsNostr": true
 }
