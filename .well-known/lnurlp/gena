@@ -1,0 +1,22 @@
+{
+   "status": "OK",
+   "tag": "payRequest",
+   "commentAllowed": 255,
+   "callback": "https://walletofsatoshi.com/lnurlp/serenefreon95/callback",
+   "metadata": "[[\"text/identifier\",\"serenefreon95@walletofsatoshi.com\"],[\"text/plain\",\"Sats for walletofsatoshi\"]]",
+   "minSendable": 1000,
+   "maxSendable": 11000000000,
+   "payerData": {
+    "name": {
+      "mandatory": false
+    },
+    "email": {
+      "mandatory": false
+    },
+    "pubkey": {
+      "mandatory": false
+    }
+  },
+   "nostrPubkey": "your_nostr_pubkey_here",
+   "allowsNostr": true
+}
